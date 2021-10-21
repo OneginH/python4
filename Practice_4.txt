@@ -20,7 +20,7 @@ while(True):
         sum+= k
 print(sum)
 3)
-Number = int(input("Введите число"))
+Number = int(input("Введите число: "))
 Res = 1
 for i in range(Number):
     Res = Res * (i+1)
