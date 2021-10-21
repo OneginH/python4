@@ -24,7 +24,7 @@ Number = int(input("Введите число"))
 Res = 1
 for i in range(Number):
     Res = Res * (i+1)
-print("Факториал равен: ", Result)
+print("Факториал равен: ", Res)
 4)
 s = int(input())
 r = int(input())
